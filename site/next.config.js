@@ -6,7 +6,7 @@ const nextConfig = {
   env: {
     name: 'Kasm David',
     description: 'The official store for Kasm supported workspaces.',
-    icon: '/img/logo.svg',
+    icon: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgYvul83NKfXyNi8Cg9lhmarVU9sUyEq3xIQ&s',
     listUrl: 'https://drlupa.github.io/kasm-registry/',
     contactUrl: 'https://github.com/Drlupa/kasm-registry/issues',
   },
