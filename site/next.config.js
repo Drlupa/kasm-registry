@@ -7,7 +7,7 @@ const nextConfig = {
     name: 'Kasm David',
     description: 'The official store for Kasm supported workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://drlupo.github.io/kasm-registry/',
+    listUrl: 'https://drlupa.github.io/kasm-registry/',
     contactUrl: 'https://github.com/Drlupa/kasm-registry/issues',
   },
   reactStrictMode: true,
